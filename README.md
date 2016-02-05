@@ -22,7 +22,8 @@ Now start the npm again using
 $ npm start
 ```
 
-Now open the index.html file from public directory into browser.
+Now run http server to open the index.html file on browser if you already have http-server package installed or open it manually from public directory.
 
-Done!
+You are done! :)
+
 
